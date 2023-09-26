@@ -8,7 +8,6 @@ import java.util.Optional;
 /**
  *  MinConflictsSolver_project
  *  
- *  Muzaffer Tasiran 181805017
  *  Sefa Samet Sutcu 181805038
  *  
  *  Because of randomness MinConflictsSolver cannot find solutions mostly.
